@@ -34,7 +34,7 @@
     "babel-preset-stage-0": "^6.5.0",
     "d3": "^3.5.17",
     "react": "^15.0.2",
-    "webpack": "^1.13.0"
+    "webpack": "^2.2.0"
   },
   "devDependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
